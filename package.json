@@ -1,7 +1,7 @@
 {
-  "name": "express",
+  "name": "expressmvp",
   "description": "MVP framework enforcing post-redirect-get",
-  "version": "0.1",
+  "version": "1.0.1",
   "author": "Unmesh Joshi<unmeshjoshi@gmail.com>",
   "contributors": [
     {
@@ -10,9 +10,11 @@
     }
   ],
   "dependencies": {
-    "express": "3.4.8",
-    
+    "express": "3.4.8"    
   },
+  
+"main": "./lib/expmvp.js",
+
    "keywords": [
     "express",
     "post-redirect-get",
