@@ -1,0 +1,28 @@
+{
+  "name": "express",
+  "description": "MVP framework enforcing post-redirect-get",
+  "version": "0.1",
+  "author": "Unmesh Joshi<unmeshjoshi@gmail.com>",
+  "contributors": [
+    {
+      "name": "Nikita Deshmukh",
+      "email": "dnikitadeshmukh@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "express": "3.4.8",
+    
+  },
+   "keywords": [
+    "express",
+    "post-redirect-get",
+    "mvp",
+    "web",
+    "rest",
+    "restful"    
+  ],
+  "repository": "",
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+ }
