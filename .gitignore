@@ -1,2 +1,6 @@
+.idea
 npm-debug.log
+*.iml
+initiproject.bat
+initproject.sh
 
