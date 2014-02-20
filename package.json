@@ -1,7 +1,7 @@
 {
   "name": "expressmvp",
   "description": "MVP framework enforcing post-redirect-get",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Unmesh Joshi<unmeshjoshi@gmail.com>",
   "contributors": [
     {
