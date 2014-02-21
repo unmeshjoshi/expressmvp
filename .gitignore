@@ -1,6 +1,7 @@
 .idea
 npm-debug.log
 *.iml
-initiproject.bat
 initproject.sh
-
+initproject.bat
+templates
+*~
